@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82418415.css",
+    "main.js": "/static/js/main.04caa940.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/ahmed.png": "/static/media/ahmed.0716477f378a842d3d19.png",
+    "static/media/Ahmed_AboutImage.JPG": "/static/media/Ahmed_AboutImage.072d2a8c7557a0b59137.JPG",
+    "static/media/fypcarimage.png": "/static/media/fypcarimage.ba4a3cdc89e5f65616a9.png",
+    "static/media/digitalmarketingcertificate.png": "/static/media/digitalmarketingcertificate.372c88f6e30e4d5fb0ac.png",
+    "static/media/PFimages.png": "/static/media/PFimages.69b2a8d000f6895a7ed4.png",
+    "static/media/Muhammad Ahmed Ahsan Resume.pdf": "/static/media/Muhammad Ahmed Ahsan Resume.9ed2719d594793632731.pdf",
+    "static/media/mernecommercewebsite.png": "/static/media/mernecommercewebsite.600412ae5b22f8adb25f.png",
+    "static/media/Mobile Workshop.jpg": "/static/media/Mobile Workshop.75512a33be5bf6f0411d.jpg",
+    "static/media/nestlecertificate.png": "/static/media/nestlecertificate.663441c4609b6d9bda87.png",
+    "static/media/folio3certificate.png": "/static/media/folio3certificate.b9c00b6114ab64609713.png",
+    "static/media/udemycertificate.png": "/static/media/udemycertificate.2f7d8f39d3b2373e75ed.png",
+    "static/media/contactImage.png": "/static/media/contactImage.784e946667eda4773157.png",
+    "index.html": "/index.html",
+    "main.82418415.css.map": "/static/css/main.82418415.css.map",
+    "main.04caa940.js.map": "/static/js/main.04caa940.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82418415.css",
+    "static/js/main.04caa940.js"
+  ]
+}
